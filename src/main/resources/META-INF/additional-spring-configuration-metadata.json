@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "income.loss.120.percent",
+    "type": "java.lang.String",
+    "description": "A description for 'income.loss.120.percent'"
+  },
+  {
+    "name": "income.loss.30.percent",
+    "type": "java.lang.String",
+    "description": "A description for 'income.loss.30.percent'"
+  },
+  {
+    "name": "income.loss.60.percent",
+    "type": "java.lang.String",
+    "description": "A description for 'income.loss.60.percent'"
+  }
+]}
